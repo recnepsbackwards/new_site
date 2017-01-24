@@ -764,17 +764,14 @@ FOOTER
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
-#footer p.social a.facebook {
-  background-color: #4460ae;
+#footer p.social a.github {
+  background-color: #225ea2;
 }
-#footer p.social a.gplus {
-  background-color: #c21f25;
-}
-#footer p.social a.instagram {
-  background-color: #cd4378;
+#footer p.social a.linkedin {
+  background-color: #225ea2;
 }
 #footer p.social a.email {
-  background-color: #4a7f45;
+  background-color: #225ea2;
 }
 @media (max-width: 767px) {
   #footer p.social {
